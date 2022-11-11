@@ -1,2 +1,2 @@
 # vecros-backend 
-You can find the deployed project <a href="https:"https://vecros-frontend.vercel.app/" target="_blank">HERE</a>
+You can find the deployed project [HERE](https://vecros-frontend.vercel.app/)
